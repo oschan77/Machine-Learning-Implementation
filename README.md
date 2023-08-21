@@ -1,6 +1,6 @@
 # Machine-Learning-Implementation
 
-This is a repository that contains implementations of various machine learning models from scratch and the implementations are written in plain Python and PyTorch.
+This is a repository that contains implementations of various machine learning models from scratch and the implementations are written in plain Python and NumPy, or PyTorch.
 
 ## About
 
@@ -12,11 +12,11 @@ Each implemented model is self-contained, developed and tested in Google Colab, 
 
 Here are the models that have been implemented so far:
 
-1. **Linear Regression** - (Python)
-2. **Logistic Regression** - (Python)
-3. **K-Nearest Neighbors (KNN)** - (Python)
-4. **Naive Bayes** - (Python)
-5. **Neural Networks** - (Python)
+1. **Linear Regression** - (Python and NumPy)
+2. **Logistic Regression** - (Python and NumPy)
+3. **K-Nearest Neighbors (KNN)** - (Python and NumPy)
+4. **Naive Bayes** - (Python and NumPy)
+5. **Neural Networks** - (Python and NumPy)
 6. **Neural Networks** - (PyTorch)
 7. **Convolutional Neural Networks (CNN)** - (PyTorch)
 
